@@ -1,0 +1,16 @@
+C:\Users\volkan\OneDrive\Belgeler\pratikler\fordongusu\obj\Debug\net5.0\fordongusu.csproj.AssemblyReference.cache
+C:\Users\volkan\OneDrive\Belgeler\pratikler\fordongusu\obj\Debug\net5.0\fordongusu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volkan\OneDrive\Belgeler\pratikler\fordongusu\obj\Debug\net5.0\fordongusu.AssemblyInfoInputs.cache
+C:\Users\volkan\OneDrive\Belgeler\pratikler\fordongusu\obj\Debug\net5.0\fordongusu.AssemblyInfo.cs
+C:\Users\volkan\OneDrive\Belgeler\pratikler\fordongusu\obj\Debug\net5.0\fordongusu.csproj.CoreCompileInputs.cache
+C:\Users\volkan\OneDrive\Belgeler\pratikler\fordongusu\bin\Debug\net5.0\fordongusu.exe
+C:\Users\volkan\OneDrive\Belgeler\pratikler\fordongusu\bin\Debug\net5.0\fordongusu.deps.json
+C:\Users\volkan\OneDrive\Belgeler\pratikler\fordongusu\bin\Debug\net5.0\fordongusu.runtimeconfig.json
+C:\Users\volkan\OneDrive\Belgeler\pratikler\fordongusu\bin\Debug\net5.0\fordongusu.runtimeconfig.dev.json
+C:\Users\volkan\OneDrive\Belgeler\pratikler\fordongusu\bin\Debug\net5.0\fordongusu.dll
+C:\Users\volkan\OneDrive\Belgeler\pratikler\fordongusu\bin\Debug\net5.0\ref\fordongusu.dll
+C:\Users\volkan\OneDrive\Belgeler\pratikler\fordongusu\bin\Debug\net5.0\fordongusu.pdb
+C:\Users\volkan\OneDrive\Belgeler\pratikler\fordongusu\obj\Debug\net5.0\fordongusu.dll
+C:\Users\volkan\OneDrive\Belgeler\pratikler\fordongusu\obj\Debug\net5.0\ref\fordongusu.dll
+C:\Users\volkan\OneDrive\Belgeler\pratikler\fordongusu\obj\Debug\net5.0\fordongusu.pdb
+C:\Users\volkan\OneDrive\Belgeler\pratikler\fordongusu\obj\Debug\net5.0\fordongusu.genruntimeconfig.cache
