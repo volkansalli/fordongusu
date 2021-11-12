@@ -1,1 +1,2 @@
 # fordongusu
+- odevi yapildi
